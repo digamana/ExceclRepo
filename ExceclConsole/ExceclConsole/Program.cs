@@ -10,7 +10,14 @@ namespace ExceclConsole
     {
         static void Main(string[] args)
         {
-             
+            /*
+            將各個讀寫Excel套件的用法簡單整理出來
+            詳見分支
+            IronXL
+            Microsoft.Office.Interop.Excel
+            ExcelLibrary 
+            freespire.xls
+             */
         }
     }
 }
